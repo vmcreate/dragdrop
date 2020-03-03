@@ -53,7 +53,7 @@ body{
     color: #3ae374;
 }
 .draggable-list li.wrong .person-name{
-    color: #ff3838;
+    color: #913838;
 }
 .draggable{
     cursor: pointer;
